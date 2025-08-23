@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 I'm shofya
+### 👩‍🎓Btech Information Technology
+###  NPR College of Engineering and technology🏫
 
-<!--
-**shofyaj583224205051-design/shofyaj583224205051-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫About me
+#### 🏠 I'm  from dindigul,Tamil Nadu
+### passionate about **Fullstack develoment**💻
 
-Here are some ideas to get you started:
+# Technicalskills
+### 🔹python programming
+### 🔸c programming
+### 🔹Fullstack development
+ 
+# languages
+### 🔹tamil
+### 🔸english
+### 🔹french
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hobbies
+### 🔹Reading books
